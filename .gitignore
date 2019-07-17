@@ -1,0 +1,7 @@
+*/.DS_Store
+*/.idea/
+*/.nbgrader.log
+*/.ipynb_checkpoints/
+venv
+*/_tmp/
+*/__pycache__/
