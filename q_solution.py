@@ -71,9 +71,9 @@ def q_learning(env, agent, num_episodes=500, max_steps_per_episode=1000, learn=T
 
 
 
-###
-### Leightweight solutions
-###
+# ##
+# ## Leightweight solutions
+# ##
 # class AgentQ:
 #     def __init__(self, num_states, num_actions, epsilon=0.05, alpha=0.1):
 #         self.num_actions = num_actions
