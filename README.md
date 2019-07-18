@@ -2,7 +2,6 @@
 
 PyData Bristol Meetup 18 July 2019
 
-Using  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/janmaltel/q-learning-introduction/master) to share.
+Use the Binder button below to create your own browser-based Jupyter environment.
 
-Link to Binder: https://hub.gke.mybinder.org/user/janmaltel-q-lea-ng-introduction-ihgoatlr/tree
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/janmaltel/q-learning-introduction/master)
